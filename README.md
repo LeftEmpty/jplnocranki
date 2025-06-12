@@ -1,4 +1,6 @@
-# ANKIV2
+# JPLNOCRANKI
+
+MASSIVE WORK IN PROGRESS
 
 > Small project to learn vocabulary while reading Japanese light novels.
 
@@ -9,6 +11,8 @@
 - [Future Outlook](#future-outlook)
 
 ## Summary
+
+`jplnocranki` = japanese light novel optical character recognition anki
 
 This project takes input and scrapes [Jisho](https://www.jisho.org), ~~then automatically creates index cards for the vocabulary word~~(not yet).
 
@@ -23,3 +27,4 @@ This project takes input and scrapes [Jisho](https://www.jisho.org), ~~then auto
 
 - Create index card functionality similar to [Anki](https://ankiweb.net/)
 - Automate index card conversion to be compatible with Anki cards / decks, both directions
+- GUI - `Tkinter`/`Walnut`/``Django`?
