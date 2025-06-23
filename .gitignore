@@ -1,6 +1,13 @@
 # git ignore
 
 
+# environment files
+.env
+
 # db files
 *.log
 db.sqlite
+
+# node modules / packages
+node_modules
+

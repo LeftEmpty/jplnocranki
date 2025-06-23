@@ -18,10 +18,14 @@ This project takes input and scrapes [Jisho](https://www.jisho.org), ~~then auto
 
 > Jisho.org has stated that scraping is accepted in moderation, so if you use this project please don't spam request.
 
-## Dependencies
+## Tools
 
 - beautifulsoup4 (`python-beautifulsoup4`)
 - requests (`python-requests`)
+- nodejs (`nodejs-lts-jod`)
+- npm (javascript (nodejs) package manager)
+- nodemon
+
 
 ## Future Outlook
 
